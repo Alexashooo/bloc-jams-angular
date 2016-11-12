@@ -154,6 +154,26 @@
                 }
           };
          
+         
+         /**
+           * @desc attribute to hold the value of the volume
+         */
+         
+         SongPlayer.volume = null; 
+             
+         
+         /**
+           * @desc method to update volume on change
+           * @type {Object}
+         */    
+         SongPlayer.setVolume = function(value) {
+             if (currentBuzzObject) {
+                    currentBuzzObject.setVolume(value);
+              }
+         }
+              
+          
+         
         
               
           return SongPlayer;
