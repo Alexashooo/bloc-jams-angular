@@ -2,11 +2,11 @@
 
 Bloc Jams is main part of Bloc’s curriculum for teaching Front-end development. The application's main purpose is to allow users to search for albums in their library and play music. This is “pure" front-end application and it looks cool.
 
-![bloc_jams_home_page](https://cloud.githubusercontent.com/assets/13839425/23342834/6fc75e92-fc61-11e6-97de-ee9b4699570d.png)
+![bloc_jams_angular_home_page](https://cloud.githubusercontent.com/assets/13839425/23342945/9007b22c-fc63-11e6-8b1b-1b47325fed90.png)
 
-![bloc_jams_albums](https://cloud.githubusercontent.com/assets/13839425/23342835/7433143a-fc61-11e6-9c9e-cc1133fef360.png)
+![bloc_jams_angular_albums](https://cloud.githubusercontent.com/assets/13839425/23342950/9c4ed678-fc63-11e6-8b38-187d333e5553.png)
 
-![bloc_jams_player](https://cloud.githubusercontent.com/assets/13839425/23342836/7e62ae0c-fc61-11e6-94cb-2b9579c77756.png)
+![bloc_jams_angular_player](https://cloud.githubusercontent.com/assets/13839425/23342953/a4940a10-fc63-11e6-8eb9-9360936c4933.png)
 
 
 ## Installation
